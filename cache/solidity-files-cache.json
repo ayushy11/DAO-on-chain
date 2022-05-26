@@ -700,8 +700,8 @@
       ]
     },
     "D:\\FrontEnd\\ReactJS\\dao\\contracts\\GovernanceToken.sol": {
-      "lastModificationDate": 1653394678276,
-      "contentHash": "b7cf726bf93978c983d52d06d041ca2f",
+      "lastModificationDate": 1653558036805,
+      "contentHash": "e5ed5e3e947229b396c2f337ca25017c",
       "sourceName": "contracts/GovernanceToken.sol",
       "solcConfig": {
         "version": "0.8.8",
